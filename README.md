@@ -198,6 +198,7 @@ xray 状态: 运行
 
 # 致谢
 
+- [FranzKafkaYu/x-ui](https://github.com/hassansim/x-ui)
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui)
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
 - [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)  

@@ -103,7 +103,7 @@ please input a legal number[0-16]:
 [Group](https://t.me/franzkafayu)
 
 # Credits
-- [hassansim/x-ui](https://github.com/hassansim/x-ui)
+- [FranzKafkaYu/x-ui](https://github.com/hassansim/x-ui)
 - [vaxilu/x-ui](https://github.com/vaxilu/x-ui)
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
 - [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api)  
